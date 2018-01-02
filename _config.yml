@@ -1,0 +1,28 @@
+title: Quantum Matrix Scribe
+description: Technolibertarian Star Wars otaku offers opinions on tech and chronicles his forays into Virtual Reality programming
+
+url: https://jdkolassa.github.io
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: jdkolassa
+   twitter: jdkolassa
+   facebook: jdkolassa
+   email: jdkolassa@gmail.com
+
+google_analytics: "UA-58263416-1"

@@ -1,0 +1,52 @@
+---
+id: 763
+title: 'Political Religions Of The Left &#038; Right'
+date: 2012-05-29T12:07:43+00:00
+author: Jeremy
+layout: post
+guid: http://jdkolassa.net/?p=763
+permalink: /2012/05/political-religions-of-the-left-right/
+Hide SexyBookmarks:
+  - "0"
+Hide OgTags:
+  - "0"
+ljID:
+  - "1156"
+ljURL:
+  - http://ghoststrider.livejournal.com/296143.html
+dsq_thread_id:
+  - "1114376915"
+categories:
+  - Politics
+  - Religion
+tags:
+  - atheism
+  - climate change
+  - libertarianism
+  - wtf
+---
+I swear to Jim Butcher that my next blog post on here will be about fiction I&#8217;m working on&#8211;honestly&#8211;but after the hullaballoo over Chris Hayes and the war dead, I could not help but think about how all of politics has basically devolved into religion, and how much it sickens me.
+
+What the incident has shown me is that both sides of the American political sphere&#8211;the so-called &#8220;left&#8221; (AKA &#8220;liberals,&#8221; &#8220;progressives,&#8221; &#8220;pink socialist commies&#8221;) and the so-called &#8220;right&#8221; (AKA &#8220;conservatives,&#8221; &#8220;fundamentalist right-wing populists,&#8221; the &#8220;1%&#8221;)&#8211;are by this point nothing more than religions, with their own tenets, gods, and apostles (not to mention heretics and unforgivable sins.) They are, in a phrase, &#8220;[political religions](http://en.wikipedia.org/wiki/Political_religion#cite_note-0).&#8221; The guy who wrote the book on them (though I haven&#8217;t read it, unfortunately), Emilio Gentile, [defined them as a](http://www.ideologiesofwar.com/newsletter/2011/05/06/nationalism-as-a-political-religion-review-essay-on-emilio-gentileby-richard-a-koenigsberg/):
+
+> “more or less developed system of beliefs, myths, rituals and symbols” that creates an “aura of sacredness around an entity belonging to the world and turns it into a cult or object of worship or devotion.”
+
+Both sides of the political sphere today put down the government as essentially their core deity. Although they have other gods they more directly worship, the government&#8211;the state&#8211;is their Absolute, their Ultimate, the Neoplatonic Ideal to which they aspire. It is, quite frankly, sacred, and their give their devotion to it.
+
+I&#8217;ve identified at least two political religions on both sides of the aisle off the top of my head. For the progressives, there are the churches of global warming/environmentalism; Keynesianism; and simple wealth redistribution. For the right, there is, well, an _actual_ religion&#8211;fundamentalist Christianity&#8211;plus the veneration of the military, which sadly has infected even some of my more libertarian friends.
+
+  * **Global Warming/Environmentalism**: This one is fun. Even if you get past the people who say that Brooklyn will be underwater by 2050 (which might not be entirely bad*), you find a great number who have done the impossible: they have placed their _faith_ in science, or more accurately, scientists. Of course, science is not based on faith, and to do so is to reject science, but they have done it anyway. This is observed whenever you start really asking questions about how global warming is going to kill us all, and they begin contorting themselves into absurd positions in order to defend it, when the rational mind would have said &#8220;This is stupid&#8221; long ago and jettisoned it. A great example is when the United Nations&#8217; Intergovernmental Panel on Climate Change published a report saying that the glaciers in the Alps were melting. They based this evidence on&#8230;an unpublished paper by a grad student, who in turn based this on&#8230;some anecdotal quotes from hikers who said, &#8220;Yeah, the glaciers look a bit smaller than the last time we were through here.&#8221; _Science_, people. This is _science_.
+  * **Keynesianism**: This one is even more fun, in a way, but more aggravating. Keynesianism, in a nutshell, is the idea that the government must &#8220;prime the pump&#8221; of the economy by injecting loads of money into it. Of course, this totally ignores the fact that the only place the government can get the money in the first place is from the economy itself, so it&#8217;s just taking money out of the right pocket and putting it into the left pocket (and there&#8217;s never any consideration of what happens when stimulus must, invariably, end.) This religion&#8217;s foremost prophet is Paul Krugman, [who has repeatedly demonstrated that not only he is a fool, but he&#8217;s also quite ignorant of human life itself](http://www.unitedliberty.org/articles/10092-paul-krugman-patron-saint-of-idiocy-death-and-misery). Of course, Keynesians like to hide behind mountains of models that &#8220;prove&#8221; their theory correct, but in the end, they never seem to translate well to the real world, and are thus very similar to such works like the Bible and the Quran.
+  * **Wealth Redistribution**: Similar and linked to Keynesianism above, the Triumphant and Occupying Church of the 99% wants more money to be taken from those who are wealthy and redistributed to the poor. It literally hates success and wealth and constantly engages in class warfare. [Never mind that income inequality has not changed at all over the past twenty years](http://politicalcalculations.blogspot.com/2011/10/shocking-trend-in-us-individual-income.html). They will promptly ignore that, and just call for more taxes on the rich&#8211;even though they&#8217;re the guys who ultimately get everyone else in this country jobs. They will literally put their fingers in their ears and
+  * **Fundamentalist Christianity**: The only political religion on this list which is based around an _actual_ religion, the fundamentalist Christianity that conservatives mostly follow is not, I would argue, actually devoted to serving Christ and their fellow man. It is, instead, a play for power in the halls of government, a way to keep one set of cultural values superior to all others, by using the force of government to impose said values. When you ask people who want to force their anti-gay beliefs and pro-life stances upon others why don&#8217;t they follow the &#8220;Render unto Ceaser what is Ceaser&#8217;s&#8221; maxim, you get the same sort of contortions (or just outright &#8220;that doesn&#8217;t matter&#8221;) you get from environmentalists. You can&#8217;t criticize it; you&#8217;re just a heathen.
+  * **Military**: This one came out in force over the weekend with the Chris Hayes&#8217; controversy. It largely comes down to &#8220;You shall not criticize the military&#8221; and &#8220;You shall DEFINITELY not say ANYTHING on Memorial Day. Just. Shut. Up.&#8221; I&#8217;ve already [gone over this](http://jdkolassa.net/?p=761) in the [past two posts](http://jdkolassa.net/?p=756), so I won&#8217;t spend all that much time on this particular entry, but only that it is extremely prevalent and is becoming more and more dangerous.
+
+The reason all of these stances go beyond ideology and have become political religions is that ideologies can change, adapt, and evolve, and that people can do so via the power of reason. Religion, on the other hand, is against reason. It is entirely based on faith, which is &#8220;X is true and I believe it with all my heart and soul and if it turns out to be false [I&#8217;ll end up like these guys](http://jdkolassa.net/?p=754).&#8221; The radical environmentalism and global warming believers don&#8217;t use reason to evaluate their statements, and the Keynesians have long ago discarded reason in order to stay in bed with their government overlords (a weakness that was well explained in Public Choice Theory.) Arguably, there was never any reason applied to either the Wealth Redistributionists or the fundamentalist Christians, and the lack of critical thinking towards the military has not yet overpowered reason entirely&#8211;as evidenced by the pushback, even from military veterans themselves, on the issue&#8211;but it is growing and has been accelerating in particular over the past decade.
+
+Without reason, we can not advance, we can not develop. It was a lack of reason and slavish devotion to the Church and feudal lords that kept Western civilization mired in the Medieval period for so long (which, while good fodder for D&D campaigns, is not so good for real life.) The lack of reason that led to the Soviets and Communism in general led to hundreds of millions of deaths. And the lack of reason that is permeating the entire &#8220;discussion&#8221; over how to deal with the financial crisis, the recession, and the looming disintegration of the Eurozone is only promising more danger, more failures, and a harder fall in the future. On the other hand, using that giant brain of ours gave us fire, the wheel, electricity, democracy, free markets, the computer, the iPhone, space shuttles, abundant food supplies, and Pokemon. (Okay, bad example.)
+
+This is why I&#8217;m both a libertarian and an atheist (and why I&#8217;m really, _really_ irritated that so many atheists have basically swapped out Jesus with the state; they&#8217;re not &#8220;really&#8221; atheists, they just call their god Capitol Hill). It&#8217;s also why, for the first time in many years, I&#8217;m actually getting very worried about the direction of this country. Ultimately, while many terrible things have happened over the past decade or so, it always looked to me that eventually, libertarianism and the free market would win out. People see how things are failing miserably, give it a shot, and would revel in the new found freedom and prosperity. Our logic, in the end, would be inescapable and irrefutable, although it would take a long time to get there. But that only works if people are open to reason, and if they&#8217;re not&#8211;if they&#8217;re just following political religions, which they cannot disagree with or else they will be excommunicated, their lives destroyed&#8211;then we don&#8217;t really have much of a chance. You can&#8217;t reason with them. You can hope to convert, but that&#8217;s a long shot.
+
+For the first time in a long time, I&#8217;m a pessimist.
+
+<!-- NgfbSharing::get_buttons content filter skipped: content ignored in back-end -->

@@ -1,0 +1,57 @@
+---
+id: 952
+title: 'Transformers: Just Prime'
+date: 2012-12-16T19:15:26+00:00
+author: Jeremy
+layout: post
+guid: http://jdkolassa.net/?p=952
+permalink: /2012/12/transformers-just-prime/
+ljID:
+  - "1203"
+ljURL:
+  - http://ghoststrider.livejournal.com/307970.html
+dsq_thread_id:
+  - "1111122237"
+categories:
+  - Science Fiction
+  - Screenwriting
+  - Writing
+tags:
+  - animation
+  - Transformers Prime
+---
+<figure id="attachment_967" style="width: 570px" class="wp-caption aligncenter"><a href="http://jdkolassa.net/?attachment_id=967" rel="attachment wp-att-967"><img class="size-full wp-image-967" title="Transformers-Prime-Season-1-Episode-17-Crisscross" src="http://jdkolassa.net/wp-content/uploads/2012/12/Transformers-Prime-Season-1-Episode-17-Crisscross.jpg" alt="" width="570" height="330" srcset="http://jdkolassa.net/wp-content/uploads/2012/12/Transformers-Prime-Season-1-Episode-17-Crisscross.jpg 570w, http://jdkolassa.net/wp-content/uploads/2012/12/Transformers-Prime-Season-1-Episode-17-Crisscross-300x173.jpg 300w, http://jdkolassa.net/wp-content/uploads/2012/12/Transformers-Prime-Season-1-Episode-17-Crisscross-500x289.jpg 500w" sizes="(max-width: 570px) 100vw, 570px" /></a><figcaption class="wp-caption-text">Making humorous image captions is the right of all sentient beings&#8230;not just the people on TFWiki.</figcaption></figure> 
+
+I&#8217;ve been trying to write this blog post for some time now, but every time I tried to get at it something came up. Well, come hell, high water, or a rent check, I&#8217;m going to pen a few words here about how I think _Transformers: Prime_ is one of the better shows on TV, and why I think it should be the model for most children television. Or why, maybe, I just haven&#8217;t watched cartoons in so long.
+
+Because it&#8217;s just _prime_.
+
+<!--more-->
+
+A few weeks ago, the second season of _Transformers: Prime_ came to a close. I haven&#8217;t gotten around to blogging about it, but I feel I should. That&#8217;s because _Transformers: Prime_ is, well&#8230;just _prime_.
+
+One of the major issues I&#8217;ve continually had with children TV is that it&#8217;s dumb. Not just dumb, but deliberately dumbed-down. We can&#8217;t say the word &#8220;kill,&#8221; for instance, even though that&#8217;s exactly what you&#8217;re doing when you blow up a sentient alien robot. There&#8217;s the usual black vs white dichotomy, that one person is absolutely wrong and one is absolutely right, without any room for grey. There&#8217;s the usual lack of continuity, with every episode being self-contained or the characters ignoring everything that went before. And then there&#8217;s the jokes&#8211;I&#8217;m the _maestro_ with bad jokes myself, but these are so corny they could only entertain the spawn of Cthulhu.
+
+Look, I get the fact that kids are just not as intelligent or rational as adults. Fine. But aside from toddlers&#8211;or kids just five and below&#8211;they are not idiots. In fact, my experience has taught me that children, or at least starting at what they call &#8220;tweens,&#8221; so 9-12, are actually smarter than adults on a lot of things. First, they&#8217;re great at adapting to new technology. Second, they don&#8217;t try to overthink things, which unfortunately many adults seem to. And third&#8230;okay, I don&#8217;t really have a third point, but usually you&#8217;re supposed to have three. Definitely, there are things they don&#8217;t know about (morality, for one, though I&#8217;m not even sure adults ever get good and evil right) but they are not the idiots some people, _most_ people, make them out to be. (Hell, at the age of 12, some of my peers were already into porn. Seriously. And many tweens these days know how to handle themselves on Facebook and social media, unlike many adults.) So why give them dumbed down entertainment?
+
+During college, I had the wonderful experience of watching _Avatar: The Last Airbender_, with my first roommate. Now I&#8217;m going to say right here that I have not watched every episode and am not an expert. But from what I _did_ see, it was way beyond the kid&#8217;s cartoons I had watched before. Aang and the gang (now there&#8217;s a Dr. Seuss rhyme if there was one) were not one-dimensional chess pieces moved around on the board; the writers infused them with genuine personalities, genuine motivations, and just made them seem _real_. Even the jokes, though corny, were thought out enough that they were more than bearable. Watching _Avatar_, I thought that this would be the first kid&#8217;s cartoon I could watch with my parents. Maybe.
+
+Seriously, watching cartoons of _any_ kind with my parents in an exercise in &#8220;How long can I sit there while they make me feel humiliated for watching this?&#8221; So far, I think it stands at about ten minutes.
+
+_Transformers: Prime_ might be the second. For one thing, it has on it&#8217;s leadership the two absolutely brilliant minds of Roberto Orci and Alex Kurtzman. Those names should definitely ring bells&#8211;they both worked on the live-action movies, _The Island_, _Mission: Impossible 3_, and the 2009 _Star Trek_ reboot, as well as _Fringe_, which has been my favorite TV show of the past few years (though, with it&#8217;s current dismal season, maybe not any longer.) Say what you will about many of these properties&#8211;I&#8217;ve never had strong feelings for MI3 myself, the live-action _Transformers_ movies were more or less ruined by Michael Bay, and I&#8217;ve given low scores to the _Star Trek_ reboot (though I liked _The Island_ a lot)&#8211;these guys know what they&#8217;re doing. They&#8217;ve created a real, living world, with characters that respond to one another, events that actually have consequences, and for the love of transforming crystal raptor baby Jesus, it&#8217;s not straight black and white.
+
+It&#8217;s _mostly _black and white, but there&#8217;s enough grey there, especially on the bad guy side, that I&#8217;m content. It&#8217;s also got a far more, shall I say, &#8220;serious&#8221; tone. Sure, there is funny stuff all the time, but this is not a happy go lucky world, and I think that&#8217;s a good thing to present to kids as they start becoming tweens.
+
+For instance, take [Breakdown](http://tfwiki.net/wiki/Breakdown_%28Prime%29), who is the Decepticon nemesis of the Autobot hero [Bulkhead](http://tfwiki.net/wiki/Bulkhead_%28Prime%29). He [ends up getting captured by humans](http://tfwiki.net/wiki/Operation:_Breakdown), who decide to dissect him not only while he&#8217;s _still alive_, but while _he&#8217;s still awake_. I guess for a Transformer that&#8217;s not _terribly_ awful, as they&#8217;re mechanical beings and not biological, but that&#8217;s still pretty damn creepy when there&#8217;s a drill bit driving into your <del>eyeball</del> optic sensor. Bulkhead ends up saving the guy, in order to preserve their rivalry (this is where little human children logic comes into play) and Breakdown _almost_ joins the Autobots. The way I recall, it was not one of those guaranteed episodes where they just make it look like the bad guy may join the good guys; no, as difficult as it is to make an animated face&#8211;a robotic animated face at all&#8211;full of emotion, you could tell that this guy was _this freaking close_ to becoming a good guy, and might not be all that bad underneath. Of course, he doesn&#8217;t, he remains a Decepticon (and subsequently, to burn off his shame of being beaten by some mere _humans_ turns into a real jerk) but that they got that close is something to be admired.
+
+One of my favorite scenes in the show that highlights that folks are not perfect or always right comes during the next season, when [Arcee](http://tfwiki.net/wiki/Arcee_%28Prime%29)&#8211;the only female Autobot, who transforms into a [teenage boy&#8217;s](http://tfwiki.net/wiki/Jack_Darby) motorcycle*&#8211;is berating the [new Autobot recruit](http://tfwiki.net/wiki/Smokescreen_%28Prime%29) for being an idiot (although in an interesting twist on the age old trope, he really isn&#8217;t all that dumb, demonstrating some really good tactics; he&#8217;s just full of himself) and _Arcee_ ends up being berated in turn by Optimus Prime and his right-hand man, Ratchet. Now that&#8217;s interesting; in many cartoons, there&#8217;s a new guy who ends up being chastised for having an inflated sense of his own ability and being stupid, but for the chastiser to be chastised&#8211;maybe I just haven&#8217;t watched cartoons lately, but I don&#8217;t see that often. Of course, said recruit ends up running off into the desert where he gets captured, but I think it&#8217;s a good example that those people who are castigating you are not necessarily right. That&#8217;s a great lesson for kids to learn, especially in this day and age when most of the people who would be doing that&#8211;the previous generation or two&#8211;have made countless mistakes and are _really_ imperfect.
+
+A third thing I love about this show is it&#8217;s use of [callbacks](http://tvtropes.org/pmwiki/pmwiki.php/Main/CallBack). It&#8217;s when something that happens earlier in the series is brought up again later, and does wonders for establishing continuity. For instance, in the pilot, Bulkhead ends up breaking some of Ratchet&#8217;s scientific equipment trying to demonstrate to the US government agent Fowler what Cybertronian power was. &#8220;_Bulkhead_!&#8221; Ratchet yells, &#8220;I needed that!&#8221; Later on in the show, when a good friend of Bulkhead&#8217;s is hurt, he smashes something in rage; Ratchet opens his mouth to say something, but Bulkhead interjects: &#8220;_What_? You _needed _that?&#8221; Priceless. Or later, when Arcee&#8217;s usually responsible human buddy ends up going with the new Autobot recruit into a dangerous combat situation, he notes how he&#8217;s copying Bulkhead&#8217;s human partner&#8217;s irrational love of danger by saying &#8220;I just pulled a Miko, didn&#8217;t I?&#8221; It&#8217;s that kind of continuity maintenance that I just adore. No more singular episodes, we want something that lives in a real, breathing world.
+
+I really put this genius down to the creators. They said they knew kids these days were more genre savvy, and so were going to create a show that fulfilled their desires for more intelligent, deeper stories. They succeeded. There is juvenile hilarity (I hope you love puns, and comments about clown cars, and parents embarrassing their kids), straight up action, fantastic &#8220;cinematography&#8221; (does it count if it&#8217;s animation?), an orchestral soundtrack to rival most movies, and above all, it&#8217;s clean. There&#8217;s obviously no swearing, gore, or anything truly &#8220;adult&#8221;, and yet it is not dumb kiddy fare.
+
+Here&#8217;s to hoping that _Transformers: Prime_ sets a new tone for cartoons, stuff that, while perhaps aimed at tweens and early teenagers, can be enjoyed by any age group, precisely because it is not dumb.
+
+*<span style="font-size: xx-small;">This might be the best part of the entire show: think, you&#8217;re a teenage boy. What&#8217;s the coolest thing ever? Girls. Well, girls and motorcycles. And now you have a motorcycle that transforms into a girl who has laser cannons. Yeah. That&#8217;s just straight up fantasy. (Not sure what it is for girls, to be honest. Lipstick? Is that what they find cool?)</span>
+
+<!-- NgfbSharing::get_buttons content filter skipped: content ignored in back-end -->
