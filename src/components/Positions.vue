@@ -11,7 +11,7 @@ export default {
 <template>
 
 <carousel-3d :count="positions.length">
-    <slide v-for="(position, i) in positions" :index="i" class="rounded-2xl bg-pink-100">
+    <slide v-for="(position, i) in $options.positions" :index="i" class="rounded-2xl bg-pink-100">
       <h1>{{position.title}}</h1>
       <div class="md:container mx-auto">
         <div class="jobcard float-left">
