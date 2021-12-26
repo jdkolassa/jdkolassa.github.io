@@ -1,0 +1,22 @@
+{
+    "hats": [
+        {
+            "title": "Project Manager",
+            "logo": "fa-project-diagram",
+            "details": [
+                "Led company wide initiative to overhaul our project management system",
+                "Chaired stakeholder meetings and ensured all were on the same page",
+                "Ran rehearsals and dry runs to fully test new workflows before deployment",
+                ""
+            ]
+        },
+        {
+            "title": "Web Developer",
+            "logo": "fa-laptop",
+        },
+        {
+            "title": "Communicator",
+            "logo": "fa-comments",
+        }
+    ]
+}
