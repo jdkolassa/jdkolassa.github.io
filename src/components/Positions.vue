@@ -23,7 +23,7 @@ export default {
             </ul>
         </div>
         <ul class="list-disc list-outside"><!-- the bullet list of what I did, should wrap around the employer section if long -->
-            <li v-for="position.details.item in position.details">{{item}}</li>
+            <li v-for="item in position.details">{{item}}</li>
         </ul>
           
       </div>
