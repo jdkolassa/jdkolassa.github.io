@@ -13,10 +13,22 @@
         {
             "title": "Web Developer",
             "logo": "fa-laptop",
+            "details": [
+                "<i class=\"fab fa-html5\"></i> &nbsp; <i class=\"fab fa-css3-alt\"></i> &nbsp; <i class=\"fab fa-sass\"></i> &nbsp; <i class=\"fab fa-js\"></i> &nbsp; <i class=\"fab fa-vuejs\"></i> &nbsp; <i class=\"fab fa-gulp\"></i> &nbsp; <i class=\"fab fa-php\"></i> &nbsp; <i class=\"fab fa-laravel\"></i> &nbsp; <i class=\"fab fa-wordpress\"></i> &nbsp; <i class=\"fab fa-drupal\"></i> &nbsp; <i class=\"fab fa-phoenix-squadron\"></i> &nbsp; <i class=\"fab fa-aws\"></i> &nbsp; <i class=\"fab fa-atlassian\"></i> &nbsp; <i class=\"fab fa-git-alt\"></i> &nbsp; <i class=\"fab fa-github\"></i> &nbsp; <i class=\"fab fa-apple\"></i> &nbsp; <i class=\"fab fa-windows\"></i> &nbsp; <i class=\"fab fa-linux\"></i>",
+                "Built custom media archival system in Drupal",
+                "Responsive first web design",
+                "Close interaction with clients to ensure their needs and requirements are met",
+                "If I don't know it -- I'll learn it!"
+            ]
         },
         {
             "title": "Communicator",
             "logo": "fa-comments",
+            "details": [
+                "Create detailed documentation with screenshots to explain interfaces to non-technical audiences",
+                "Write persuasive ad copy for campaigns",
+                "Analyze web traffic and find best place for content cross-promotion"
+            ]
         }
     ]
 }
