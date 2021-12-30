@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Gruppo&family=Montserrat:wght@300&display=swap');
+
+.heading {
+    @apply text-center font-heading;
+}
+
+.contactForm, .desc,  {
+    @apply flex w-full p-3 mx-auto;
+}
