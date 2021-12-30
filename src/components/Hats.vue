@@ -7,10 +7,10 @@ export default {
 </script>
 
 <template>
-    <div>
-        <div v-for="hat in $options.hats" class="w-1/3 hover:w-2/3 rounded-lg">
-            <i class="fas {{hat.icon}}"></i>
-            <h2>{{hat.title}}</h2>
+    <div class="hats">
+        <div v-for="hat in $options.hats" class="w-1/3 hover:w-2/3 rounded-lg bg-pink-100 shadow-lg">
+            <i class="fas {{hat.icon}} mx-auto"></i>
+            <h2 class="heading">{{hat.title}}</h2>
             <ul v-for="item in hat.details" class>
                 <li>{{item}}</li>
             </ul>
