@@ -10,8 +10,8 @@ export default {
 
 <template>
 
-<carousel-3d :count="positions.length">
-    <slide v-for="(position, i) in $options.positions" :index="i" class="rounded-2xl bg-pink-100">
+<carousel-3d :count="positions.length" class="mx-auto w-full flex">
+    <slide v-for="(position, i) in $options.positions" :index="i" class="rounded-2xl bg-pink-100 shadow-lg">
       <h1>{{position.title}}</h1>
       <div class="md:container mx-auto">
         <div class="jobcard float-left">
