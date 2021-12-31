@@ -10,6 +10,6 @@
     @apply text-center font-heading;
 }
 
-.contactForm, .desc,  {
+.contactForm, .desc  {
     @apply flex w-full p-3 mx-auto;
 }
