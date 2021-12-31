@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      width: {
+        '192': '48rem'
+      }
+    },
     fontFamily: {
       'sans': ['Montserrat', 'Helvetica', 'sans-serif'],
       'heading': ['Gruppo', 'Impact', 'sans-serif']
