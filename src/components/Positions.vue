@@ -2,16 +2,12 @@
 <script setup>
 import { Carousel3d, Slide } from 'vue-carousel-3d';
 import positions from '../data/positions.json';
-export default {
-    // custom option
-    positions: positions
-}
 </script>
 
 <template>
 
 <carousel-3d :count="positions.length" class="mx-auto w-full flex">
-    <slide v-for="(position, i) in $options.positions" :index="i" class="rounded-2xl bg-pink-100 shadow-lg">
+    <slide v-for="(position, i) in positions" :index="i" class="rounded-2xl bg-pink-100 shadow-lg">
       <h1>{{position.title}}</h1>
       <div class="md:container mx-auto">
         <div class="jobcard float-left">
