@@ -22,19 +22,17 @@
             "type": ["coding", "project"],
             "location": "Washington, DC",
             "dates": "Jul 2014 - Feb 2021",
+            "logo": "cato",
             "details": [
-                "Served as Wrike Implementation Lead, organizing and taking point on a months long initiative to institute a codified and automated publishing workflow, bringing it into a new project management system, chairing stakeholder meetings, running rehearsals, leading internal Wrike education, and serving as point contact with Wrike.",
-                "Compiled and disseminated social media analytics in monthly reports, and developed content cross-promotion strategies",
-                "Designed and managed Drupal 6/7/8 and Wordpress properties, both on the front and back end",
+                "Took lead on corporate intiative to overhaul workflow processes",
+                "Chaired stakeholder meetings, workflow rehearsals, and managed communications",
+                "Developed cross-promotion media strategies",
                 "Wrote and illustrated documentation for Drupal, Wordpress, and Office 365 applications for non-technical staff",
-                "Worked one-on-one with scholars to create data visualizations for their studies, and craft the best solution to engage with readers in a creative way",
-                "Worked with admin and support staff to redesign and overhaul communication channels, including work intake systems for Wrike and Salesforce",
+                "Worked one-on-one with scholars to create data visualizations for their studies",
+                "Redesigned communication channels for improved performance",
                 "Ensured all properties met responsive web design standards",
-                "Developed with HTML5, CSS, JavaScript (ES6), PHP, MySQL, and other languages",
-                "Maintained and configured development servers",
                 "Maintained DNS accounts and security certificates",
-                "Served as a helpful guide to anyone confused and always lending a helping hand",
-                "Worked on Windows, Mac, and Ubuntu Linux"
+                "Served as a helpful guide to anyone confused and always lending a helping hand"
             ]
         },
         {
@@ -72,16 +70,15 @@
             "type": "coding",
             "location": "Washington, DC",
             "dates": "Jan 2013 - Feb 2014",
+            "logo": "craft",
             "details": [
-                "Update client websites to current coding standards",
-                "Inform clients on best strategy to deploy digital properties",
-                "Create Wordpress page templates to customize themes",
-                "Develop Nationbuilder properties for candidates and nonprofits to expand their reach",
+                "Updated legacy client websites to current coding standards",
+                "Consulted clients on best strategy to deploy digital properties",
+                "Created Wordpress page templates to customize themes",
+                "Developed Nationbuilder properties for candidates and nonprofits to expand their reach",
                 "Write documentation to help clients get the most out of their websites",
                 "Set up Google Analytics to track visitors and advertising",
-                "Use HTML, CSS, jQuery, JavaScript, PHP, and MySQL to create fantastic products for customers",
-                "Grow clients social media properties on Twitter, Facebook, and Google+",
-                "Constantly challenge myself to learn and develop new skills and new opportunities"
+                "Grew clients social media properties on Twitter, Facebook, and Google+"
             ]
         },
         {
@@ -91,6 +88,7 @@
             "type": "comms",
             "location": "Washington, DC",
             "dates": "Sep 2012 - Jan 2013",
+            "logo": "cei",
             "details": [
                 "Grew CEI's following on Twitter and Facebook by 11% and 24%, respectively, in 4 months",
                 "Developed new methods to promote CEI's message of free markets and limited government",
@@ -107,8 +105,8 @@
             "type": "comms",
             "location": "McLean, VA",
             "dates": "Jul 2011 - Sep 2011",
+            "logo": "freddiemac",
             "details": [
-                "(Contract position via Aquent)",
                 "Oversaw the production of Freddie Mac's employee news website, HomeFront",
                 "Coordinated writers, designers, and web staff to deliver valuable information to Freddie Mac employees",
                 "Wrote, edited, and distributed the daily morning newsletter, FreddieConnections, sent to over 6000 employees",
