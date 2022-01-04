@@ -4,16 +4,30 @@
 import Contact from './components/Contact.vue';
 import Description from './components/Description.vue';
 import Hats from './components/Hats.vue';
-import Positions from './components/Positions.vue';
+import Jobs from './components/Jobs.vue';
+</script>
+
+<script>
+  export default {
+    name: "App",
+    components: {
+      Contact, Description, Hats, Jobs,
+    }
+};
 </script>
 
 <template>
-  <!-- <IntroLogo></IntroLogo> -->
   <Description></Description>
+  <hr>
   <Hats></Hats>
-  <Positions></Positions>
+  <hr>
+  <Jobs></Jobs>
+  <hr>
   <Contact></Contact>
 </template>
 
-<style>
+<style scoped>
+hr {
+  margin: 10px 0;
+}
 </style>

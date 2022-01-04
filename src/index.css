@@ -11,5 +11,5 @@
 }
 
 .contactForm, .desc  {
-    @apply flex w-full p-3 mx-auto;
+    @apply w-full p-3;
 }
