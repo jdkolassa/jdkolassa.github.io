@@ -13,8 +13,27 @@
         {
             "title": "Web Developer",
             "logo": "fa-laptop",
+            "skills": [
+                "fa-html5",
+                "fa-css3-alt",
+                "fa-sass",
+                "fa-js",
+                "fa-vuejs",
+                "fa-gulp",
+                "fa-php",
+                "fa-laravel",
+                "fa-wordpress",
+                "fa-drupal",
+                "fa-phoenix-squadron",
+                "fa-aws",
+                "fa-atlassian",
+                "fa-git-alt",
+                "fa-github",
+                "fa-apple",
+                "fa-windows",
+                "fa-linux"
+            ],
             "details": [
-                "<i class=\"fab fa-html5\"></i> &nbsp; <i class=\"fab fa-css3-alt\"></i> &nbsp; <i class=\"fab fa-sass\"></i> &nbsp; <i class=\"fab fa-js\"></i> &nbsp; <i class=\"fab fa-vuejs\"></i> &nbsp; <i class=\"fab fa-gulp\"></i> &nbsp; <i class=\"fab fa-php\"></i> &nbsp; <i class=\"fab fa-laravel\"></i> &nbsp; <i class=\"fab fa-wordpress\"></i> &nbsp; <i class=\"fab fa-drupal\"></i> &nbsp; <i class=\"fab fa-phoenix-squadron\"></i> &nbsp; <i class=\"fab fa-aws\"></i> &nbsp; <i class=\"fab fa-atlassian\"></i> &nbsp; <i class=\"fab fa-git-alt\"></i> &nbsp; <i class=\"fab fa-github\"></i> &nbsp; <i class=\"fab fa-apple\"></i> &nbsp; <i class=\"fab fa-windows\"></i> &nbsp; <i class=\"fab fa-linux\"></i>",
                 "Built custom media archival system in Drupal",
                 "Responsive first web design",
                 "Close interaction with clients to ensure their needs and requirements are met",
