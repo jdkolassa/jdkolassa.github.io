@@ -27,6 +27,11 @@ import Jobs from './components/Jobs.vue';
 </template>
 
 <style scoped>
+#app {
+  background-image: none;
+  background-color: transparent;
+}
+
 hr {
   margin: 10px 0;
 }
