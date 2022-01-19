@@ -2,7 +2,7 @@
 <template>
     <div id="introLogo" class="h-screen w-full max-w-[960px] flex-col mb-6">
       <div id="artbox" class="contents">
-        <svg id="triangles" class=" mb-6 w-2/3 h-750 mx-auto">
+        <svg id="triangles" class="inset-y-1/2 w-2/3 h-1/2 mx-auto">
            <path id="pinktri" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
            <path id="cyantri" fill="none" stroke="#2DE2D6" stroke-width="5" d="M75,150 L175,550 L785,50 Z" />
         </svg>
