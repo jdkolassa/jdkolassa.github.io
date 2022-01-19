@@ -2,11 +2,11 @@
     "positions": [
         {
             "title": "Contract Web Developer",
-            "employer": "Consulting Firm",
-            "hidden": true,
+            "employer": "Berman & Company",
             "type": "coding",
             "location": "Washington, DC",
             "dates": "Jul 2021 - Dec 2021",
+            "logo": "bandco",
             "details": [
                 "Translated APIs into data-driven Wordpress sites based on Bedrock and Timber",
                 "Created charts, graphs, and infographics with CSS alone",
@@ -18,7 +18,6 @@
         {
             "title": "Digital Projects Coordinator",
             "employer": "Cato Institute",
-            "hidden": false,
             "type": ["coding", "project"],
             "location": "Washington, DC",
             "dates": "Jul 2014 - Feb 2021",
@@ -38,7 +37,6 @@
         {
             "title": "Volunteer Web Developer",
             "employer": "Action for Hope",
-            "hidden": false,
             "type": "coding",
             "location": "Washington, DC",
             "dates": "Feb 2014 - Aug 2014",
@@ -51,11 +49,11 @@
         },
         {
             "title": "Contract Web Developer",
-            "employer": "Consulting Firm",
-            "hidden": true,
+            "employer": "Vox Global",
             "type": "coding",
             "location": "Washington, DC",
             "dates": "Feb 2014 - Mar 2014",
+            "logo": "voxglobal",
             "details": [
                 "Built responsive page templates for a legacy website, matching current themes",
                 "Developed JavaScript code to match web page backgrounds to image color palettes",
@@ -66,7 +64,6 @@
         {
             "title": "Frontend Web Developer",
             "employer": "CRAFT|DC",
-            "hidden": false,
             "type": "coding",
             "location": "Washington, DC",
             "dates": "Jan 2013 - Feb 2014",
@@ -84,7 +81,6 @@
         {
             "title": "Social Media Associate",
             "employer": "Competitive Enterprise Institute",
-            "hidden": false,
             "type": "comms",
             "location": "Washington, DC",
             "dates": "Sep 2012 - Jan 2013",
@@ -101,7 +97,6 @@
         {
             "title": "Consultant, Internal Communications",
             "employer": "Freddie Mac",
-            "hidden": false,
             "type": "comms",
             "location": "McLean, VA",
             "dates": "Jul 2011 - Sep 2011",
