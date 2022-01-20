@@ -7,6 +7,7 @@ import { positions } from '../data/positions.json';
 
 
 <template #slides>
+<h1 class="text-white text-center mx-auto">My History</h1>
 
 <Carousel :itemsToShow="1" :wrapAround="true" :snapAlign="start">
     <Slide v-for="position in positions" :key="position" class="job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">

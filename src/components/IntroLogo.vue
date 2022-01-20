@@ -1,14 +1,14 @@
 
 <template>
-    <div id="introLogo" class="h-screen w-full max-w-[960px] flex-col mb-6">
-      <div id="artbox" class="contents">
-        <svg id="triangles" class="inset-y-1/2 w-2/3 h-1/2 mx-auto">
-           <path id="pinktri" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
+    <div id="introLogo" class="h-screen w-full max-w-[960px] md:flex-col mb-6">
+      <div id="artbox" class="contents w-[320px] md:w-full">
+        <svg id="triangles" class="max-w-full md:w-2/3 md:max-w-[728px] h-1/4 md:h-1/2 mx-auto">
+           <path id="pinktri" class="max-w-[320px]" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
            <path id="cyantri" fill="none" stroke="#2DE2D6" stroke-width="5" d="M75,150 L175,550 L785,50 Z" />
         </svg>
         <br>
         <!-- <img id="webdesign" src="../assets/web_design_opt2.svg" class="absolute bottom-0 place-self-center"> -->
-        <svg width="488.61" height="168.04" version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
+        <svg version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
             <text transform="rotate(-15.073)" x="-8.3579836" y="148.06142" fill="#f6019d" style="line-height:1.25" xml:space="preserve"><tspan x="-8.3579836" y="148.06142" fill="#f6019d" stroke-width=".26458">Web Design</tspan></text>
             <text transform="rotate(-15.073)" x="-9.0762415" y="147.70229" fill="#2de2d6" style="line-height:1.25" xml:space="preserve"><tspan x="-9.0762415" y="147.70229" fill="#2de2d6" stroke-width=".26458">Web Design</tspan></text>

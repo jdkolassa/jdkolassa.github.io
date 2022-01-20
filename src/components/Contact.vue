@@ -16,7 +16,7 @@
             </div>
             <label for="reason" class="font-semibold">Reason for Message:</label>
             <br>
-                <select id="reason" class="invalid:border-pink-500 valid:border-cyan-500 focus:border-orange-700 border-slate-500 rounded-lg border-2 bg-slate-200 text-black my-3" v-model="formValues.reason" required>
+                <select id="reason" class="invalid:border-pink-500 valid:border-cyan-500 focus:border-orange-700 border-slate-500 rounded-lg border-2 bg-slate-200 text-black my-3 w-full md:w-2/3" v-model="formValues.reason" required>
                     <option value="">Please select:</option>
                     <option value="work">We'd like to hire you for some work.</option>
                     <option value="friend">I'm an old friend who wants to catch up.</option>
