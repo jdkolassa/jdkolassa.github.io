@@ -19,14 +19,10 @@ import Jobs from './components/Jobs.vue';
 
 <template>
   <IntroLogo></IntroLogo>
-  <hr>
-  <Description></Description>
-  <hr>
-  <Hats></Hats>
-  <hr>
-  <Jobs></Jobs>
-  <hr>
-  <Contact></Contact>
+  <Description class="my-12"></Description>
+  <Hats class="my-12"></Hats>
+  <Jobs class="my-12"></Jobs>
+  <Contact class="my-12"></Contact>
 </template>
 
 <style scoped>
