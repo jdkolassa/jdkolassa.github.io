@@ -6,7 +6,7 @@ import { hats } from '../data/hats.json';
 
 <template>
     <div class="hatContainer w-full flex gap-x-1.5">
-        <div v-for="hat in hats" class="transition-transform ease-in-out w-1/3 hover:w-2/3 rounded-2xl bg-black text-white border-pink-400 border border-double shadow-lg flex-col mx-1.5 p-2">
+        <div v-for="hat in hats" class="hat transition-transform ease-in-out w-1/3 hover:w-2/3 rounded-2xl bg-black text-white border-pink-400 border border-double shadow-lg flex-col mx-1.5 p-2">
             <i class="fas {{hat.logo}} mx-auto"></i>
             <h2 class="heading">{{hat.title}}</h2>
             <div v-if="hat.skills" class="grid grid-cols-4 justify-center items-center mx-auto space-y-2">
@@ -24,3 +24,9 @@ import { hats } from '../data/hats.json';
         name: "Hats"
     };   
 </script>
+
+<style scoped>
+    .hat {
+        transition: width 500ms;
+    }
+</style>
