@@ -1,9 +1,9 @@
 
 <template>
     <div id="introLogo" class="h-screen w-full max-w-[960px] md:flex-col mb-6">
-      <div id="artbox" class="contents w-[320px] md:w-full">
-        <svg id="triangles" class="max-w-full md:w-2/3 md:max-w-[728px] h-1/4 md:h-1/2 mx-auto">
-           <path id="pinktri" class="max-w-[320px]" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
+      <div id="artbox" class="contents">
+        <svg id="triangles" viewbox="0 0 850 850">
+           <path id="pinktri" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
            <path id="cyantri" fill="none" stroke="#2DE2D6" stroke-width="5" d="M75,150 L175,550 L785,50 Z" />
         </svg>
         <br>
