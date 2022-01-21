@@ -1,7 +1,12 @@
 <!-- This component will render a slider of my previous employment history-->
 <script setup>
-import { Carousel, Slide, Pagination, Navigation } from 'vue3-carousel';
-import 'vue3-carousel/dist/carousel.css';
+import { Swiper, SwiperSlide } from 'swiper/vue';
+import 'swiper/css';
+import "swiper/css/effect-coverflow";
+import "swiper/css/pagination";
+import SwiperCore, { EffectCoverflow, Pagination } from "swiper";
+SwiperCore.use([EffectCoverflow, Pagination]);
+
 import { positions } from '../data/positions.json';
 </script>
 
@@ -9,10 +14,24 @@ import { positions } from '../data/positions.json';
 <template #slides>
 <h1 class="text-white text-center mx-auto">My History</h1>
 
-<Carousel :itemsToShow="1" :wrapAround="true" :snapAlign="start">
-    <Slide v-for="position in positions" :key="position" class="job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">
-      <h1 class="heading">{{position.title}}</h1>
-      <div>
+<swiper
+  :effect="'coverflow'"
+  :grabCursor="true"
+  :centeredSlides="true"
+  :slidesPerView="'auto'"
+  :coverflowEffect="{
+      rotate: 90,
+      stretch: 0,
+      depth: 100,
+      modifier: 1,
+      slideShadows: true,
+    }"
+  :pagination="true"
+  class="md:overflow-visible"
+>
+  <swiper-slide v-for="position in positions" :key="position" class="job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">
+    <h1 class="heading">{{position.title}}</h1>
+      <div class="text-center">
         <div class="jobcard text-center">
             <img :src="'/src/assets/' + `${position.logo}` + '.jpeg'" class="mx-auto w-1/4">
             <h4 class="heading">{{position.employer}}</h4>
@@ -21,19 +40,15 @@ import { positions } from '../data/positions.json';
                 <li class="font-sans">{{position.location}}</li>
             </ul>
         </div>
-        <ul class="details list-outside"><!-- the bullet list of what I did, should wrap around the employer section if long -->
+        <ul class="details list-outside mx-auto w-1/2"><!-- the bullet list of what I did, should wrap around the employer section if long -->
             <li v-for="item in position.details" class="break-normal max-w-md my-2">{{item}}</li>
         </ul>
-        <!-- <a href='https://www.freepik.com/vectors/arrow'>Arrow vector created by pch.vector - www.freepik.com</a> -->
           
       </div>
-    </Slide>
+      </swiper-slide>
+</swiper>
 
-    <template #addons>
-      <Navigation />
-      <Pagination />
-    </template>
-  </Carousel>
+
 </template>
 
 <style scoped>
@@ -45,24 +60,6 @@ import { positions } from '../data/positions.json';
 .details {
   list-style-image: url("../assets/point_24x24.png");
 }
-/* .carousel__slide > .carousel__item {
-  transform: scale(1);
-  opacity: 0.5;
-  transition: 0.5s;
-}
-.carousel__slide--visible > .carousel__item {
-  opacity: 1;
-  transform: rotateY(0);
-}
-.carousel__slide--next > .carousel__item {
-  transform: scale(0.9) translate(-10px);
-}
-.carousel__slide--prev > .carousel__item {
-  transform: scale(0.9) translate(10px);
-}
-.carousel__slide--active > .carousel__item {
-  transform: scale(1.1);
-} */
 </style>
 
 
@@ -71,9 +68,12 @@ import { positions } from '../data/positions.json';
 export default {
   name: "Jobs",
   components: {
-    Carousel,
-    Slide,
-    Navigation,
+    Swiper,
+    SwiperSlide
   },
+  data(){
+    return {};
+  },
+  methods: {},
 };
 </script>
