@@ -40,7 +40,7 @@ import { positions } from '../data/positions.json';
                 <li class="font-sans">{{position.location}}</li>
             </ul>
         </div>
-        <ul class="details list-outside mx-auto w-1/2"><!-- the bullet list of what I did, should wrap around the employer section if long -->
+        <ul class="details list-inside mx-auto w-1/2 grid grid-cols-2"><!-- the bullet list of what I did, should wrap around the employer section if long -->
             <li v-for="item in position.details" class="break-normal max-w-md my-2">{{item}}</li>
         </ul>
           
