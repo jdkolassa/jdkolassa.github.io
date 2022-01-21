@@ -7,6 +7,16 @@
            <path id="cyantri" fill="none" stroke="#2DE2D6" stroke-width="5" d="M75,150 L175,550 L785,50 Z" />
         </svg>
         <br>
+        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+          <defs>
+            <filter id="bevel">
+              <!-- filter stuff happening here -->
+              <feMorphology operator="dilate" radius="3" in="SourceGraphic" result="bevel" />
+            </filter>
+          </defs>
+        </svg>
+        <span class="chrome standby text-9xl" data-text="JEREMY">JEREMY</span>
+        <span class="chrome standby text-9xl" data-text="KOLASSA">KOLASSA</span>
         <!-- <img id="webdesign" src="../assets/web_design_opt2.svg" class="absolute bottom-0 place-self-center"> -->
         <svg version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
@@ -78,5 +88,45 @@
     opacity: 1;
   }
 }
+
+.chrome {
+    font-family: "Hauser", sans-serif;
+    -webkit-transition-duration: 800ms;
+    transition-duration: 800ms;
+    background-image: linear-gradient(#241734 20%, #2DE2E6 60%, #fdf9f7 65%, 
+     #66183c 65%, #D40078 75%, #cfcfcf 90%);
+    
+    -webkit-background-clip:text;
+    background-clip:text;
+    -webkit-text-fill-color:transparent;
+    -webkit-text-stroke-width: 0.1rem;
+    -webkit-text-stroke-color: rgba(0,0,0,0.2);
+}
+
+.chrome:before{
+  content:attr(data-text);
+  background:linear-gradient(#cfcfcf 20%, #aff1f2 30%, #78bbbd 50%, #129a9e 70%, #cfcfcf 90%) 0% 0% repeat;
+  -webkit-background-clip:text;
+  background-clip: text;
+  position: absolute;
+  z-index:-1;
+  filter:url(#bevel);
+}
+
+.chrome:after{
+  content:attr(data-text);
+  position: absolute;
+  text-shadow:0 0 25px rgba(255,255,255,0.5);
+  transform:translate(-100%);
+  z-index:-2;
+}
+
+/* .standby:nth-child(odd) {
+  transform: translate(-100%);
+}
+
+.standby:nth-child(even) {
+  transform: translate(100%)
+} */
 
 </style>
