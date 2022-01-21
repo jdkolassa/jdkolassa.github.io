@@ -27,9 +27,9 @@ import { positions } from '../data/positions.json';
       slideShadows: true,
     }"
   :pagination="true"
-  class="md:overflow-visible"
+  class=""
 >
-  <swiper-slide v-for="position in positions" :key="position" class="job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">
+  <swiper-slide v-for="position in positions" :key="position" class="w-2/3 job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">
     <h1 class="heading">{{position.title}}</h1>
       <div class="text-center">
         <div class="jobcard text-center">

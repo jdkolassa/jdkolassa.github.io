@@ -1,5 +1,5 @@
 <template>
-    <div id="contactContainer">
+    <div id="contactContainer" class="w-2/3 mx-auto">
         <div class="bg-orange-500 text-white rounded-t-lg text-center">
             <h1 class="heading">Like what you see?</h1>
             <h1 class="heading">Let's connect!</h1>
