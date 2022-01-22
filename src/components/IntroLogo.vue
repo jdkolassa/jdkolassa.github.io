@@ -1,12 +1,11 @@
 
 <template>
-    <div id="introLogo" class="h-screen w-full max-w-[960px] md:flex-col mb-6">
+    <div id="introLogo" class="h-screen w-full max-w-[960px] md:flex-col mb-6 mx-auto">
       <div id="artbox" class="contents">
-        <svg id="triangles" viewbox="0 0 850 850">
+        <svg id="triangles" viewbox="0 0 850 850" class="absolute inset-48">
            <path id="pinktri" fill="none" stroke="#F6019D" stroke-width="5" d="M250,50 L25,275 L675,550 Z" /> 
            <path id="cyantri" fill="none" stroke="#2DE2D6" stroke-width="5" d="M75,150 L175,550 L785,50 Z" />
         </svg>
-        <br>
         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
           <defs>
             <filter id="bevel">
@@ -15,10 +14,10 @@
             </filter>
           </defs>
         </svg>
-        <span class="chrome standby text-9xl" data-text="JEREMY">JEREMY</span>
-        <span class="chrome standby text-9xl" data-text="KOLASSA">KOLASSA</span>
-        <!-- <img id="webdesign" src="../assets/web_design_opt2.svg" class="absolute bottom-0 place-self-center"> -->
-        <svg version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
+        <div class="name overflow-x-hidden flex-col space-y-1 md:flex-row justify-center self-center absolute">
+          <span class="chrome text-xl md:text-13xl inline-block" :class="{standby: notReady}" data-text="JEREMY">JEREMY</span><span class="chrome text-xl md:text-13xl inline-block" :class="{standby: notReady}" data-text="KOLASSA">KOLASSA</span>
+        </div>
+        <svg id="webdesign" version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
             <text transform="rotate(-15.073)" x="-8.3579836" y="148.06142" fill="#f6019d" style="line-height:1.25" xml:space="preserve"><tspan x="-8.3579836" y="148.06142" fill="#f6019d" stroke-width=".26458">Web Design</tspan></text>
             <text transform="rotate(-15.073)" x="-9.0762415" y="147.70229" fill="#2de2d6" style="line-height:1.25" xml:space="preserve"><tspan x="-9.0762415" y="147.70229" fill="#2de2d6" stroke-width=".26458">Web Design</tspan></text>
@@ -73,26 +72,11 @@
     }
   }
 
-#webdesign {
-  animation: fade-in 5s linear 6s;
-  animation-fill-mode: forwards;
-  opacity: 0;
-}
-
-@keyframes fade-in {
-  from {
-   opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-.chrome {
+  .chrome {
+    z-index: 6;
     font-family: "Hauser", sans-serif;
-    -webkit-transition-duration: 800ms;
-    transition-duration: 800ms;
+     -webkit-transition-duration: 3600ms; 
+     transition-duration: 3600ms; 
     background-image: linear-gradient(#241734 20%, #2DE2E6 60%, #fdf9f7 65%, 
      #66183c 65%, #D40078 75%, #cfcfcf 90%);
     
@@ -121,12 +105,51 @@
   z-index:-2;
 }
 
-/* .standby:nth-child(odd) {
-  transform: translate(-100%);
+ .chrome.standby:nth-child(odd) {
+  transform: translate(-500%);
+}
+.chrome.standby:nth-child(even) {
+  transform: translate(500%);
+} 
+
+#webdesign {
+  animation: fade-in 5s linear 6s;
+  animation-fill-mode: forwards;
+  opacity: 0;
 }
 
-.standby:nth-child(even) {
-  transform: translate(100%)
-} */
+@keyframes fade-in {
+  from {
+   opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
 
 </style>
+
+<script>
+export default {
+  name: "IntroLogo",
+  data(){
+    return {
+      notReady: true,
+    }
+  },
+  methods: {
+      activate(){
+        var v = this;
+        setTimeout(function(){
+          v.notReady = false;
+        }, 5000);
+      }
+    },
+  created(){
+    this.activate();
+  }
+}
+
+</script>
