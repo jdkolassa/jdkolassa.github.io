@@ -14,6 +14,12 @@ module.exports = {
     fontFamily: {
       'sans': ['Montserrat', 'Helvetica', 'sans-serif'],
       'heading': ['Gruppo', 'Impact', 'sans-serif']
+    },
+    fontSize: {
+      '10xl': '10rem',
+      '11xl': '12rem',
+      '12xl': '14rem',
+      '13xl': '16rem',
     }
   },
   plugins: [
