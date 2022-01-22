@@ -7,6 +7,8 @@ import "swiper/css/pagination";
 import SwiperCore, { EffectCoverflow, Pagination } from "swiper";
 SwiperCore.use([EffectCoverflow, Pagination]);
 
+import getSrc from '../composable/useAssets.js';
+
 import { positions } from '../data/positions.json';
 </script>
 
@@ -33,7 +35,7 @@ import { positions } from '../data/positions.json';
     <h1 class="heading">{{position.title}}</h1>
       <div class="text-center">
         <div class="jobcard text-center">
-            <img :src="'/src/assets/' + `${position.logo}` + '.jpeg'" class="mx-auto w-1/4">
+            <img :src="getSrc(position.logo)" class="mx-auto w-1/4">
             <h4 class="heading">{{position.employer}}</h4>
             <ul class="list-none list-outside">
                 <li class="font-sans">{{position.dates}}</li>
