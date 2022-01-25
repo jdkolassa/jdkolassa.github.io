@@ -7,10 +7,10 @@
 
 
 .heading {
-    @apply text-center font-heading;
+    @apply text-center font-heading text-xl;
 }
 
-.contactForm, .desc  {
+.contactForm  {
     @apply w-full p-3;
 }
 
