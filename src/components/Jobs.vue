@@ -14,7 +14,7 @@ import { positions } from '../data/positions.json';
 
 
 <template #slides>
-<h1 class="text-white text-center mx-auto">My History</h1>
+<h1 class="heading text-white text-center mx-auto">My History</h1>
 
 <swiper
   :effect="'coverflow'"

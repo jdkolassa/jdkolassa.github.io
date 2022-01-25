@@ -14,8 +14,8 @@
             </filter>
           </defs>
         </svg>
-        <div class="name flex flex-col space-y-1.5 md:flex-row md:space-x-1.5 md:space-y-0 justify-center self-center absolute">
-          <span class="chrome text-xl md:text-13xl" data-text="JEREMY">JEREMY</span><span class="chrome text-xl md:text-13xl" data-text="KOLASSA">KOLASSA</span>
+        <div class="name flex flex-col space-y-1.5 md:flex-row md:space-x-5 md:space-y-0 justify-center self-center absolute">
+          <span class="chrome md:text-13xl" data-text="JEREMY">JEREMY</span><span class="chrome md:text-13xl" data-text="KOLASSA">KOLASSA</span>
         </div>
         <svg id="webdesign" version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
