@@ -14,8 +14,8 @@
             </filter>
           </defs>
         </svg>
-        <div class="name overflow-x-hidden flex-col space-y-1 md:flex-row justify-center self-center absolute">
-          <span class="chrome text-xl md:text-13xl inline-block" :class="{standby: notReady}" data-text="JEREMY">JEREMY</span><span class="chrome text-xl md:text-13xl inline-block" :class="{standby: notReady}" data-text="KOLASSA">KOLASSA</span>
+        <div class="name flex flex-col space-y-1.5 md:flex-row md:space-x-1.5 md:space-y-0 justify-center self-center absolute">
+          <span class="chrome text-xl md:text-13xl" data-text="JEREMY">JEREMY</span><span class="chrome text-xl md:text-13xl" data-text="KOLASSA">KOLASSA</span>
         </div>
         <svg id="webdesign" version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
@@ -73,10 +73,7 @@
   }
 
   .chrome {
-    z-index: 6;
     font-family: "Hauser", sans-serif;
-     -webkit-transition-duration: 3600ms; 
-     transition-duration: 3600ms; 
     background-image: linear-gradient(#241734 20%, #2DE2E6 60%, #fdf9f7 65%, 
      #66183c 65%, #D40078 75%, #cfcfcf 90%);
     
@@ -104,13 +101,6 @@
   transform:translate(-100%);
   z-index:-2;
 }
-
- .chrome.standby:nth-child(odd) {
-  transform: translate(-500%);
-}
-.chrome.standby:nth-child(even) {
-  transform: translate(500%);
-} 
 
 #webdesign {
   animation: fade-in 5s linear 6s;
