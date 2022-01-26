@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "Squarish Sans CT";
+  src: url("./assets/Squarish-Sans-CT-Regular.ttf") format("truetype");
+}
 
 
 .heading {
@@ -15,9 +19,9 @@
 }
 
 /* #ff0055;
-//#2DE2D6;
-//#0D0221;
-//#791E94; */
+#2DE2D6;
+#0D0221;
+#791E94; */
 
 :root {
   background-color: #0D0221;
