@@ -15,7 +15,7 @@
           </defs>
         </svg>
         <div class="name flex flex-col space-y-1.5 md:flex-row md:space-x-5 md:space-y-0 justify-center self-center absolute">
-          <span class="chrome md:text-13xl" data-text="JEREMY">JEREMY</span><span class="chrome md:text-13xl" data-text="KOLASSA">KOLASSA</span>
+          <span class="chrome text-lg md:text-13xl" data-text="JEREMY">JEREMY</span><span class="chrome text-lg md:text-13xl" data-text="KOLASSA">KOLASSA</span>
         </div>
         <svg id="webdesign" version="1.1" viewBox="0 0 129.27 44.461" xmlns="http://www.w3.org/2000/svg" class="absolute bottom-0 place-self-center">
           <g transform="translate(-25.937 -104.84)" font-family="Stingray" font-size="19.756px" stroke-width=".26458">
@@ -73,9 +73,8 @@
   }
 
   .chrome {
-    font-family: "Hauser", sans-serif;
-    background-image: linear-gradient(#241734 20%, #2DE2E6 60%, #fdf9f7 65%, 
-     #66183c 65%, #D40078 75%, #cfcfcf 90%);
+    font-family: "Squarish Sans CT", sans-serif;
+    background-image: linear-gradient(#241734 25%, #2DE2E6 50%, #fdf9f7 50%, #66183c 53%, #D40078 57%, #cfcfcf 90%);
     
     -webkit-background-clip:text;
     background-clip:text;
