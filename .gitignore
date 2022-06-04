@@ -2,5 +2,4 @@ node_modules
 .DS_Store
 dist-ssr
 *.local
-.vscode
 /src/assets/palette.png
