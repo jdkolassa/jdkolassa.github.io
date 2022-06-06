@@ -31,23 +31,21 @@ import { positions } from '../data/positions.json';
   :pagination="true"
   class=""
 >
-  <swiper-slide v-for="position in positions" :key="position" class="w-2/3 job rounded-2xl text-white border-cyan-400 border border-double flex-col mx-2 p-2">
-    <h1 class="heading">{{position.title}}</h1>
-      <div class="text-center">
-        <div class="jobcard text-center">
-            <img :src="getSrc(position.logo)" class="mx-auto w-1/4">
-            <h4 class="heading">{{position.employer}}</h4>
-            <ul class="list-none list-outside">
-                <li class="font-sans">{{position.dates}}</li>
-                <li class="font-sans">{{position.location}}</li>
-            </ul>
-        </div>
-        <ul class="details list-inside mx-auto w-1/2 grid grid-cols-2"><!-- the bullet list of what I did, should wrap around the employer section if long -->
-            <li v-for="item in position.details" class="break-normal max-w-md my-2">{{item}}</li>
-        </ul>
-          
+  <swiper-slide v-for="position in positions" :key="position" class="w-1/2 job rounded-2xl text-white border-cyan-400 border border-double flex flex-col sm:flex-row mx-2 p-4">
+    <div class="text-center">
+      <img :src="getSrc(position.logo)" class="">
+      <br>
+      <h4>{{position.employer}}</h4>
+    </div>
+    <hr class="my-2.5 mx-1 sm:my-1 sm:mx-2.5 w-11/12 sm:w-4 sm:h-5/6">
+    <div>
+      <span class="font-sans">{{position.location}}</span>&nbsp;&nbsp;<img src="../assets/point_24x24.png" class="inline">&nbsp;&nbsp;<span class="font-sans">{{position.dates}}</span>
+      <h1 class="heading">{{position.title}}</h1>
+      <div class="flex flex-row sm:flex-col">
+        <i v-for="skill in position.skills" class="fab lg:text-2xl sm:text-sm md:text-md justify-self-center" v-bind:class="`${skill}`" />
       </div>
-      </swiper-slide>
+    </div>
+  </swiper-slide>
 </swiper>
 
 
@@ -57,10 +55,30 @@ import { positions } from '../data/positions.json';
 
 .job {
   background: rgba(146,0,117,0.15);
+  transition: background 0.5s ease;
+}
+
+.swiper-slide-active{
+  background: rgba(146,0,117,0.85);
+  
 }
 
 .details {
   list-style-image: url("../assets/point_24x24.png");
+}
+
+hr {
+  border: 5px solid #d40078;
+  border-radius: 1rem;
+  box-shadow: 0 0 5px #d40078;
+}
+
+hr:before{
+  content: '';
+  position: absolute;
+  border: 2px solid #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 0 2px #fff;
 }
 </style>
 

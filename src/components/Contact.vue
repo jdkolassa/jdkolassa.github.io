@@ -4,7 +4,7 @@
             <h1 class="heading">Like what you see?</h1>
             <h1 class="heading">Let's connect!</h1>
         </div>
-        <form class="contactForm bg-black border-orange-500 border border-double text-white flex-col p-4 rounded-b-lg" @submit="submitForm()">
+        <form class="contactForm border-orange-500 border border-double text-white flex-col p-4 rounded-b-lg" @submit="submitForm()">
             <p class="italic text-sm">All fields are required!<span class="text-red-700 align-super">*</span></p>
             <div class="my-3">
                 <label for="name" class="font-semibold">Your Name:</label>
@@ -31,6 +31,19 @@
     </div>
 
 </template>
+
+<style scoped>
+    .contactForm {
+        background: rgba(84, 19, 136, 0.42);
+        border-radius: 0 0 16px 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1),
+                    rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+        backdrop-filter: blur(6.4px);
+        -webkit-backdrop-filter: blur(6.4px);
+        border: 1px solid rgba(84, 19, 136, 1);
+        color: white;
+    }
+</style>
 
 <script>
     export default {

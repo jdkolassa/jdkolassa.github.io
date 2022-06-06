@@ -11,7 +11,8 @@
 
 
 .heading {
-    @apply text-center font-heading text-xl;
+    @apply text-center font-heading text-3xl uppercase;
+    text-shadow: 4px 0px 1px rgba(247,6,207,0.5), -3px 0px 6px rgba(101,13,137,0.5), 0px 0px 10px rgba(45,226,230,1);
 }
 
 .contactForm  {

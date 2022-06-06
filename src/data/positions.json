@@ -110,6 +110,29 @@
                 "Received employee questions and ensured they were answered promptly",
                 "Created and maintained Freddie Mac's Wall of Fame"
             ]
+        },
+        {
+            "title": "Student",
+            "employer": "SUNY Albany",
+            "type": "education",
+            "location": "Albany, NY",
+            "dates": "Aug 2007 - Dec 2010",
+            "details": [
+                "Received B.A. in Journalism with a minor in Japanese",
+                "Studied abroad at Kansai Gaidai University in Hirakata City, Japan, from Aug 2009 - May 2010",
+                "Graduated in December 2010 <em>Magna Cum Laude<\/em>",
+                "Board Member of Japanese Anime/Manga Society"
+                
+            ]
+        },
+        {
+            "title": "Born",
+            "employer": "Family",
+            "location": "Rome, NY",
+            "dates": "April 1989",
+            "details": [
+                "With some exceptions, this has made a lot of people very angry and has been widely regarded as a bad move."
+            ]
         }
 
     ]

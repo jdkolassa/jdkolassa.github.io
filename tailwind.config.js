@@ -12,14 +12,14 @@ module.exports = {
       },
       fontFamily: {
         'sans': ['Montserrat', 'Helvetica', 'sans-serif'],
-        'heading': ['Gruppo', 'Impact', 'sans-serif']
+        'heading': ['Squarish Sans CT', 'Impact', 'sans-serif']
       },
       fontSize: {
-        '10xl': '10rem',
-        '11xl': '12rem',
-        '12xl': '14rem',
-        '13xl': '16rem',
-      }
+        '10xl': ['10rem', '15rem'],
+        '11xl': ['12rem', '18rem'],
+        '12xl': ['14rem', '21rem'],
+        '13xl': ['16rem', '24rem'],
+      },
     },
     
   },

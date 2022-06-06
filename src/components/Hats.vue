@@ -6,12 +6,12 @@ import { hats } from '../data/hats.json';
 
 <template>
     <h1 class="text-white text-center mx-auto">My Hats</h1>
-    <div class="hatContainer w-2/3 md:flex gap-x-1.5 mx-auto my-12">
-        <div v-for="hat in hats" class="hat transition-transform ease-in-out md:w-1/3 md:hover:w-2/3 rounded-2xl bg-black text-white border-pink-400 border border-double shadow-lg flex-col my-3 md:mx-1.5 md:my-px  p-2">
+    <div class="hatContainer flex flex-col w-2/3 gap-y-5 mx-auto my-12">
+        <div v-for="hat in hats" class="hat w-full my-3 md:mx-1.5 md:my-px p-2">
             <i class="fas {{hat.logo}} mx-auto"></i>
             <h2 class="heading">{{hat.title}}</h2>
-            <div v-if="hat.skills" class="grid grid-cols-6 justify-center items-center mx-auto space-y-2">
-                <i v-for="item in hat.skills" class="fab lg:text-2xl sm:text-sm justify-self-center" v-bind:class="`${item}`"></i>
+            <div v-if="hat.skills" class="grid grid-cols-6 justify-center items-center mx-auto gap-y-2">
+                <i v-for="item in hat.skills" class="fab lg:text-2xl sm:text-sm md:text-md justify-self-center" v-bind:class="`${item}`"></i>
             </div>
             <ul v-for="item in hat.details" class="mt-2">
                 <li>{{item}}</li>
@@ -29,5 +29,18 @@ import { hats } from '../data/hats.json';
 <style scoped>
     .hat {
         transition: width 500ms;
+        /* From https://css.glass */
+        background: rgba(84, 19, 136, 0.42);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1),
+                    rgba(0, 0, 0, 0.35) 0px -50px 36px -28px inset;
+        backdrop-filter: blur(6.4px);
+        -webkit-backdrop-filter: blur(6.4px);
+        border: 1px solid rgba(84, 19, 136, 1);
+        color: white;
+    }
+
+    .hatContainer:nth-child(2) {
+        text-align:right;
     }
 </style>
