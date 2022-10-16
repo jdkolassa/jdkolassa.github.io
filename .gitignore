@@ -3,3 +3,5 @@ node_modules
 dist-ssr
 *.local
 /src/assets/palette.png
+/art_work
+/art_work/*
