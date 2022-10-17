@@ -3,8 +3,8 @@
     id="introLogo"
     class="h-screen w-full max-w-[960px] md:flex-col mb-6 mx-auto"
   >
-    <div id="artbox" class="contents self-center">
-      <svg id="triangles" viewbox="0 0 850 850" class="absolute inset-48">
+    <div id="artbox" class="contents">
+      <svg id="triangles" class="absolute" viewBox="0 0 850 850">
         <path
           id="pinktri"
           fill="none"
@@ -118,6 +118,8 @@
 
 #triangles {
   overflow: visible;
+  width: 100%;
+  height: 100%;
 }
 
 #pinktri,
@@ -125,7 +127,7 @@
   animation: draw 5s linear;
   animation-fill-mode: forwards;
   stroke-linecap: square;
-  z-index: 5;
+  z-index: -5;
 }
 
 #pinktri {
