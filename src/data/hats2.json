@@ -1,0 +1,86 @@
+{
+    "webDeveloper": {
+        "title": "Web Developer",
+        "details": {
+            "tab2": {
+                "Primary Languages": [
+                    "TypeScript",
+                    "JavaScript",
+                    "SASS",
+                    "PHP",
+                    "English",
+                    "Japanese"
+                ],
+                "Other Languages": [
+                    "C#",
+                    "PowerShell",
+                    "SQL",
+                    "VBA",
+                    "Python"
+                ],
+                "Primary Frameworks": [
+                    "React",
+                    "Vue",
+                    "Laravel",
+                    "ArcGIS API for JavaScript",
+                    "ArcGIS Experience Builder",
+                    "WordPress",
+                    "Bootstrap",
+                    "TailwindCSS"
+                ],
+                "Databases": [
+                    "MySQL",
+                    "MariaDB",
+                    "PostgreSQL",
+                    "Microsoft SQL Server",
+                    "MongoDB",
+                    "SQLite"
+                ],
+                "Primary Tools": [
+                    "Git",
+                    "Husky",
+                    "Webpack",
+                    "Babel",
+                    "Vite",
+                    "Vitest",
+                    "Jira",
+                    "VSCode",
+                    "Visual Studio",
+                    "Pycharm Pro",
+                    "Windows",
+                    "MacOS",
+                    "Linux ((L/X)Ubuntu, Debian, Fedora, Crunchbang, Yoper, Mint, SliTaz)"
+                    
+                ]
+            },
+            "tab1": {
+                "virtues": [
+                    "Always hungry to learn -- whether a new library, a new framework, programming paradigm, or an entirely new language, bring it.",
+                    "Start with the user and work backwards -- plot out their workflow and what they need to accomplish, then draft the data structures needed, the best way to manage them, and implement the foundations first.",
+                    "Rapid prototyping -- start fast, fail early, refactor often. Early ideas are starting points only, and I never want to be locked into them.",
+                    "Every library, every framework, every paradigm, every language has its place. I'm not a purist, and I'm not a zealot. I'm a pragmatist, and I'm a realist. I'll use the right tool for the job, and I'll use it well.",
+                    "Document, document, document -- in commit messages, in Architectural Decision Records, in comments in the code when necessary. If people know why a decision was made, it becomes far easier to optimize it.",
+                    "As a wise company mascot told me, \"You should always axolotl questions.\" I'm committed to humbleness, and not being afraid to ask dumb questions. Likewise, I'm committing to answering questions no matter how dumb, because I know the feeling of being afraid to ask them.",
+                ],
+                "roles": [
+                    "Digital Project Coordinator, Cato Institute",
+                    "Geospatial Developer, Axim Geospatial",
+                    "Web Developer, CRAFT|DC",
+                    "Web Developer, Vox Global"
+                ]
+            }
+        }
+    },
+    "projectManager": {
+        "title": "Project Manager",
+        "details": {
+            "tab1": {
+                "virtues": [],
+                "roles": [
+                    "Digital Project Coordinator, Cato Institute",
+                    "Workflow Implementation Lead, Cato Institute"
+                ]
+            }
+        }
+    }
+}
