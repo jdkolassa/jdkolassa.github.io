@@ -4,7 +4,7 @@
     class="h-screen w-full max-w-[960px] md:flex-col mb-6 mx-auto"
   >
     <div id="artbox" class="contents">
-      <svg id="triangles" class="absolute" viewBox="0 0 850 850">
+      <svg id="triangles" class="absolute" viewBox="0 0 785 785">
         <path
           id="pinktri"
           fill="none"
