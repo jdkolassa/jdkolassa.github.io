@@ -21,10 +21,11 @@
                 "Primary Frameworks": [
                     "React",
                     "Vue",
-                    "Laravel",
+                    "Node.js",
                     "ArcGIS API for JavaScript",
                     "ArcGIS Experience Builder",
                     "WordPress",
+                    "Laravel",
                     "Bootstrap",
                     "TailwindCSS"
                 ],
@@ -47,10 +48,10 @@
                     "VSCode",
                     "Visual Studio",
                     "Pycharm Pro",
+                    "IIS",
                     "Windows",
                     "MacOS",
-                    "Linux ((L/X)Ubuntu, Debian, Fedora, Crunchbang, Yoper, Mint, SliTaz)"
-                    
+                    "Linux"
                 ]
             },
             "tab1": {
@@ -75,10 +76,63 @@
         "title": "Project Manager",
         "details": {
             "tab1": {
-                "virtues": [],
+                "virtues": [
+                    "Experience leading corporate initiatives and chairing stakeholder conferences",
+                    "Proactive, agile communication between all parties -- as long as we're on the same page, nothing is impossible",
+                    "Ensure all voice their views -- as someone with social anxiety, I understand how difficult it may be to stand up and speak, so I go out of my way to get everyone's input, and ",
+                    "As a project lead, my team doesn't work for me -- I work for the team"
+                ],
                 "roles": [
                     "Digital Project Coordinator, Cato Institute",
                     "Workflow Implementation Lead, Cato Institute"
+                ]
+            },
+            "tab2": {
+                "Paradigms": [
+                    "Agile",
+                    "Scrum",
+                    "Leaders Who Serve Their Teams",
+                ],
+                "Primary Tools": [
+                    "Jira",
+                    "Wrike",
+                    "GitHub Issues",
+                    "GitLab Issues"
+                ]
+            }
+        }
+    },
+    "communicator": {
+        "title": "Writer & Communicator",
+        "details": {
+            "tab1": {
+                "virtues": [
+                    "Always approach the writing from the audience's perspective: What assumptions do they have? What level of everyday technical knowledge do they have? Thus, I can anticipate what things may confuse and expand on those in detail.",
+                    "Use lots of visual cues in technical documentation -- Not everyone processes written spatial directions the same, and from my own experience I know we all have our own unique imaginations. Thus, whenever possible I always use screenshots with arrows and callouts so everyone knows exactly what to use.",
+                    "Communication skills honed by years of providing free remote IT support to my self-described \"digital Amish\" mother.",
+                    "Additional experience in communication ideas to the public."
+                ],
+                "roles": [
+                    "Geospatial Developer, Axim Geospatial (writing technical documentation)",
+                    "Digital Project Coordinator, Cato Institute (when writing technical documentation)",
+                    "Web Developer, CRAFT|DC (when writing technical documentation)",
+                    "Contract Writer, Politemps",
+                    "Social Media Associate, Competitive Enterprise Institute"
+                ]
+            },
+            "tab2": {
+                "Primary Languages": [
+                    "English",
+                    "Japanese",
+                    "Guy"
+                ],
+                "Primary Tools": [
+                    "Microsoft Word",
+                    "LibreOffice Writer",
+                    "Google Docs",
+                    "Mailchimp",
+                    "Constant Contact",
+                    "Hubspot"
                 ]
             }
         }
